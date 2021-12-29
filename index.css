@@ -1,0 +1,40 @@
+* {
+    color #dddddd;
+    background-color: #333838;
+}
+
+div {
+
+    color:#00b4b4;
+
+}
+
+H5 {
+    background-color: slategray;
+}
+
+.alert-text {
+    color: red;
+}
+
+#title {
+    background-color: red;
+}
+
+.read,
+.unread{
+    color:white;
+    background-color: black;
+}
+
+img{
+    height: auto;
+    width:64px;
+}
+
+a:link {color: green;}
+a:hover {color:turquoise;}
+
+.div1 {
+    color:sandybrown;
+}
